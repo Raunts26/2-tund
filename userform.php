@@ -1,1 +1,28 @@
-asd
+
+<?php
+
+	// user_form.php
+	
+
+
+
+
+
+
+?>
+
+<html>
+	<head>
+		<title>UCP</title>
+	</head>
+	<body>
+		
+		<h2>Logi sisse</h2>
+		<input type="email" placeholder="E-post"><br><br>
+		<input type="password" placeholder="Parool"><br><br>
+		<input type="submit" value="Logi sisse">
+		
+		<h2>Registreeru</h2>
+		
+	</body>
+</html>
