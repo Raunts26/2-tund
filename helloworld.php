@@ -39,8 +39,6 @@
 <?php
 	
 	echo date('D, j M Y')
-
-
 ?>
 
 
