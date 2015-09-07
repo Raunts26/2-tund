@@ -1,8 +1,7 @@
 
           <?php
-			$helloWorld = "Hello World!";
-			echo $helloWorld;
-			
-
+			$eesnimi = 'Rauno';
+			$perenimi = 'Kosula';
+			echo $eesnimi.' '.$perenimi;
 			
           ?>
