@@ -34,6 +34,26 @@
 	echo 'onne!';
 ?>
 
+<br>
+
+<?php
+	
+	echo date('D, j M Y')
+
+
+?>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
